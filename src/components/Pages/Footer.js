@@ -22,9 +22,15 @@ const Footer = () => {
               TechLift
             </Link>
           </strong>{" "}
+          Incubator:{" "}
+          <Link
+            target="_blank"
+            to="https://www.linkedin.com/school/game-train/"
+          >
+            Game Train{" "}
+          </Link>
           Instructor:{" "}
           <Link
-            className="text-decoration-none"
             target="_blank"
             to="https://pk.linkedin.com/in/imran-shabbir-394b97252?trk=people-guest_people_search-card"
           >
